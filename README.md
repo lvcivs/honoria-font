@@ -1,6 +1,6 @@
 # honoria-font
 
-An Art Deco Font inspired by Stanley Kubrick's Barry Lyndon (1975)}
+An Art Deco Font inspired by Stanley Kubrick's Barry Lyndon (1975)
 
 ![Sample](honoria.png)
 
