@@ -27,7 +27,7 @@ Please report any bugs and issues in the bugtracker.
 
 Made with Glyphs by Luzius Thöny in 2020.
 
-Current version: v1.000b
+Current version: v1.000b2
 
 ## License
 This is licensed under the SIL Open Font License 1.1.
