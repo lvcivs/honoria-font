@@ -5,7 +5,7 @@ An Art Deco Font inspired by Stanley Kubrick's Barry Lyndon (1975)
 ![Sample](honoria.png)
 
 ## What is it?
-This is a new digital typeface based on the design of the hand-lettered title and text inserts seen in the movie Barry Lyndon (1975). The hand lettering in the movie appears to be the work of Bill Gould. It is reminiscent of designs by Edward Benguiat, especially Bookman Oldstyle with swashes.
+This is a new digital typeface based on the design of the hand-lettered title and text frames seen in the movie Barry Lyndon (1975). The hand lettering in the movie appears to be the work of Bill Gould. It is reminiscent of designs by Edward Benguiat, especially Bookman Oldstyle with swashes.
 
 Honoria is an all caps font. It does not provide lowercase letters or Arabic numbers (you are encouraged to use Roman numerals instead…). Many of the uppercase letters have character variants with swirls on either side and / or long legs, which you can access through the following OpenType features:
 
@@ -25,9 +25,9 @@ For more samples, have a look at the PDF.
 
 Please report any bugs and issues in the bugtracker.
 
-Made with Glyphs by Luzius Thöny in 2020.
+Made with Glyphs by Luzius Thöny in 2020-2021.
 
-Current version: v1.000b3
+Current version: v1.000
 
 ## License
 This is licensed under the SIL Open Font License 1.1.
